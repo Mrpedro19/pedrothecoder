@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mrpedro19
 - 👀 I’m interested in meeting a mentor who is ready to journey with me in my process of learning coding
-- 🌱 I’m currently learning phython
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me femilanbe@outlook.com
 
