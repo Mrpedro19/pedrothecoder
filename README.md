@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mrpedro
+- 👋 Hi, I’m Sogo Oluwafeni
 - 👀 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
